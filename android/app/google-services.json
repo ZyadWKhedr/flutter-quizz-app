@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1063439134982",
+    "firebase_url": "https://coderx-quizapp-default-rtdb.firebaseio.com",
+    "project_id": "coderx-quizapp",
+    "storage_bucket": "coderx-quizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063439134982:android:d4c7e9a2daaaca72a52e87",
+        "android_client_info": {
+          "package_name": "com.code_rx_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZZ0JPj83DSjIgIFBdwRWI6H4WCVQ9BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063439134982:android:9e5462489815eb84a52e87",
+        "android_client_info": {
+          "package_name": "com.coderx.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZZ0JPj83DSjIgIFBdwRWI6H4WCVQ9BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063439134982:android:d402659ac244f5faa52e87",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_working"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZZ0JPj83DSjIgIFBdwRWI6H4WCVQ9BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
